@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      Framer motion
+      Framer motion Content
     </div>
   )
 }
