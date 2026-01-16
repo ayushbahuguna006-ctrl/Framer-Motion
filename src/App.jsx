@@ -2,7 +2,7 @@ import React from 'react'
 import { motion, useScroll } from "framer-motion"
 import "./App.css"
 
-
+//userscroll,whileTap,WhileHover,Drag,Drag-Constraints,Drag-Lock Learnt
 function App() {
   const {scrollYProgress}=useScroll()
 
